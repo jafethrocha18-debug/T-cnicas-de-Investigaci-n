@@ -22,9 +22,10 @@ ________________________________________________________________________________
 Hipotesis
 
 Variables.
+
 Dependientes: Depende de la manipulación independiente por parte del investigador, el valor se determina por el valor de otras variables.
 
 Independientes: No dependen de otras variables para existir, se pueden manipular, aumentar y disminuir para producir ciertos efectos.
 
-Intervinientes: 
+Intervinientes: Son mediadoras, afectan el resultado que se espera, estan relacionadas con las depen y indep.
 
